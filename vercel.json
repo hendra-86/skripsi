@@ -24,6 +24,13 @@
 
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie"
+        "SESSION_DRIVER": "cookie",
+
+        "DB_CONNECTION":"mysql",
+        "DB_HOST":"sql.freedb.tech",
+        "DB_PORT":"3306",
+        "DB_DATABASE":"freedb_data-web",
+        "DB_USERNAME":"freedb_hendra",
+        "DB_PASSWORD":"mQ9u@trTNC?dquV"
     }
 }
