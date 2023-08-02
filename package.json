@@ -37,6 +37,7 @@
         "popper.js": "^1.16.1",
         "select2": "^4.0.13",
         "sweetalert2": "^11.4.24",
-        "toastr": "^2.1.4"
+        "toastr": "^2.1.4",
+        "vercel-php-runtime": "^0.1.1"
     }
 }
